@@ -46,33 +46,19 @@ a {
   background-repeat: no-repeat; }
   
  .logo{
- height: 50px;
+ height: 70px;
   width: 100px;
   position:relative;
 
   right:400px;
   margin-bottom:100px;
-  display: flex;
   }
   
   .logo img{
   height:300px;
   width:400px;
   }
-  
-  .desc{
-  
-  background-color: #649DBD;
-  color: white;
-  font-family: Monospace;
-  }
  
- .tbl{
- border: 1px solid;
- width: 100%;
- 
- 
- }
 
 .site-navbar {
   margin-bottom: 0px;
